@@ -1,0 +1,16 @@
+{
+    "name": "长剑",
+    "icon": "max_armory:iron_long_sword",
+    "category": "max_armory:longhandle_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "它是一种伤害更高但攻速较慢的武器，但是它的攻击距离略长，介于剑和枪之间。你需要双手持握才行，不然会降低攻速。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_long_sword",
+            "title": " "
+        }
+    ]
+}

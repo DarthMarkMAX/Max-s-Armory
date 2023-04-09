@@ -1,0 +1,16 @@
+{
+    "name": "枪",
+    "icon": "max_armory:iron_spear",
+    "category": "max_armory:longhandle_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "枪乃百兵之王。它可以在很远的距离上攻击目标，这一点足矣。但是你需要双手持握，不然会导致攻速下降。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_spear",
+            "title": " "
+        }
+    ]
+}

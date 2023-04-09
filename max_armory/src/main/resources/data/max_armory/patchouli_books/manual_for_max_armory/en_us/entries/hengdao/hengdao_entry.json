@@ -1,0 +1,16 @@
+{
+    "name": "Hengdao",
+    "icon": "max_armory:iron_hengdao",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A Chinese weapon with a straight blade. The attack speed is slightly higher than the sword, and the attack damage is slightly lower. And it should be made with better materials than iron."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_hengdao",
+            "title": " "
+        }
+    ]
+}

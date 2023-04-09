@@ -1,0 +1,16 @@
+{
+    "name": "锤",
+    "icon": "max_armory:iron_hammer",
+    "category": "max_armory:hammer_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "一种钝器，常见于蒙古地区。它的攻速较慢，伤害也不出众，但是它的伤害可以无视装甲的防护，这对着甲目标可是个巨大的威胁。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_hammer",
+            "title": " "
+        }
+    ]
+}

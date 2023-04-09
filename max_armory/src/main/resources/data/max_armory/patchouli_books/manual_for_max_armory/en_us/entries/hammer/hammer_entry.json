@@ -1,0 +1,16 @@
+{
+    "name": "Hammer",
+    "icon": "max_armory:iron_hammer",
+    "category": "max_armory:hammer_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A weapon attack with smash. It is common in Mongolia. Its attack speed is low and the attack damage is unremarkable. However，its attacks will ignore armor. It is a huge threat to the armored"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_hammer",
+            "title": " "
+        }
+    ]
+}

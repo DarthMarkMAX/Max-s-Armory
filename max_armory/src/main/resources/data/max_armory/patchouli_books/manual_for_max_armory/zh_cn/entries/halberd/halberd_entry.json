@@ -1,0 +1,16 @@
+{
+    "name": "斧枪",
+    "icon": "max_armory:iron_halberd",
+    "category": "max_armory:longhandle_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "将枪与斧头结合在一起就得到了斧枪，我考虑了一下还是没有翻译成戟，因为不太严谨。它可以在远距离上造成巨量伤害，但是相应的，攻速比较慢. 它同样需要双手持握否则会继续降低攻速。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_halberd",
+            "title": " "
+        }
+    ]
+}

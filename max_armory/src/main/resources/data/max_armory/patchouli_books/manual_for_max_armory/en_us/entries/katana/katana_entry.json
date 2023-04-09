@@ -1,0 +1,16 @@
+{
+    "name": "Katana",
+    "icon": "max_armory:iron_katana",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A japanese weapon with curved blade. It has lower attack speed and higher attack damage. Make it with materials lower than iron will bring more benifits."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_katana",
+            "title": " "
+        }
+    ]
+}

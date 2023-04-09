@@ -1,0 +1,16 @@
+{
+    "name": "Spear",
+    "icon": "max_armory:iron_spear",
+    "category": "max_armory:longhandle_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The most widely used polearm. Users can deal damage to enemies at a long distance. But you need two hand to use it otherwise attack speed will decrease."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_spear",
+            "title": " "
+        }
+    ]
+}

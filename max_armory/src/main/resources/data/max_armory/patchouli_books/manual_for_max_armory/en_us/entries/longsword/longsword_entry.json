@@ -1,0 +1,16 @@
+{
+    "name": "Long Sword",
+    "icon": "max_armory:iron_long_sword",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A longer sword that high in attack damage and low in attack speed. It has a little longer attack range between sword and spear. You also need two hand to use it otherwise attack speed will decrease"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_long_sword",
+            "title": " "
+        }
+    ]
+}

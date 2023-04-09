@@ -1,0 +1,23 @@
+{
+    "name": "札甲",
+    "icon": "max_armory:lamellar_armor_chestplate",
+    "category": "max_armory:armor_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "这是一种用札甲片制作的典型中式铠甲，其材料良好的柔韧性也给它带来了比其他铠甲更高的盔甲韧性"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:lamellar_armor_chestplate",
+            "title": "标准札甲",
+            "text": "标准的札甲的胸甲"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:mingguang_armor_chestplate",
+            "title": "明光铠",
+            "text": "明光铠的胸甲，是在标准札甲的基础上升级而来。‘明光’有闪光的意思，明光铠正是得名于其胸前闪闪发光的两个金属盘，反射着阳光时如此耀眼，可以给予身着它的勇士以勇气。"
+        }
+    ]
+}

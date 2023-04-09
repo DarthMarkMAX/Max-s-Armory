@@ -1,0 +1,16 @@
+{
+    "name": "Copper Weapons",
+    "icon": "max_armory:copper_sword",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can now make weapons with copper. Copper weapons perform similarly to stone weapons but have higher enchantability and "
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:copper_sword",
+            "title": " "
+        }
+    ]
+}

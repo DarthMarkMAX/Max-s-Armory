@@ -1,0 +1,16 @@
+{
+    "name": "Halberd",
+    "icon": "max_armory:iron_halberd",
+    "category": "max_armory:longhandle_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A combination of spear and axe. You can deal a great damage to enemies at a long distance. But its attack speed is very slow. You also need two hand to use it otherwise attack speed will decrease"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_halberd",
+            "title": " "
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "横刀",
+    "icon": "max_armory:iron_hengdao",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "横刀拥有一个笔直的刀刃，是具有中国特色的武器。它比普通的剑攻速略快，相应的，伤害略低。此外，它特别适合使用高于铁的材料制作。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_hengdao",
+            "title": " "
+        }
+    ]
+}

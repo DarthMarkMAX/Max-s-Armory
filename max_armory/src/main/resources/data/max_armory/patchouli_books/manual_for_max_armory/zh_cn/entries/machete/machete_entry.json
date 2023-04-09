@@ -1,0 +1,16 @@
+{
+    "name": "砍刀",
+    "icon": "max_armory:iron_machete",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "砍刀是一种反曲刃的刀，在东南亚挺常见。它拥有更高的伤害和更低的攻速，而且还能当斧子用"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_machete",
+            "title": " "
+        }
+    ]
+}

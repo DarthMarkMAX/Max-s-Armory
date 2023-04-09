@@ -1,0 +1,35 @@
+{
+    "name": "材料",
+    "icon": "max_armory:lamellar_armor_piece",
+    "category": "max_armory:material_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "要不是合成会冲突，谁愿意加新材料啊。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:handle",
+            "title": "柄",
+            "text": "刀剑的尾部，手握的地方"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:rod",
+            "title": "棍",
+            "text": "就是一根长——木杆，既能合成长柄武器，也能打人"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:lamellar_armor_piece",
+            "title": "札甲片",
+            "text": "由小长方片组成的带韧性的甲片，可以用来制作札甲。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:chain_armor_piece",
+            "title": "锁子甲块",
+            "text": "一块由小金属环串成的柔软护甲材料，可以用来合成链甲"
+        }
+    ]
+}

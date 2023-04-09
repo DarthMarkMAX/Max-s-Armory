@@ -1,0 +1,16 @@
+{
+    "name": "Shamshir",
+    "icon": "max_armory:iron_shamshir",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A persian weapon with S shape. It has a faster attack speed and a lower damage. But it will deal more damage to enemies with no armor."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_shamshir",
+            "title": " "
+        }
+    ]
+}

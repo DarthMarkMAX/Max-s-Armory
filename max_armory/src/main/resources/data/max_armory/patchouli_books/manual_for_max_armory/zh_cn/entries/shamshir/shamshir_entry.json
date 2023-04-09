@@ -1,0 +1,16 @@
+{
+    "name": "弯刀",
+    "icon": "max_armory:iron_shamshir",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "是一种具有波斯风味的S型的刀。它攻速较高，但伤害较低。可是面对没有护甲的目标，它的伤害就会提升。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_shamshir",
+            "title": " "
+        }
+    ]
+}

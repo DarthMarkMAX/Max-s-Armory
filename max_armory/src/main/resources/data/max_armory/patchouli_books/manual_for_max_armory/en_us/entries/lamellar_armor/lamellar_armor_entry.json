@@ -1,0 +1,23 @@
+{
+    "name": "Lamellar Armor",
+    "icon": "max_armory:lamellar_armor_chestplate",
+    "category": "max_armory:armor_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A chinese armor that is made with lamellar armor pices. this kind of armor is flexible and will provied more Armor toughness."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:lamellar_armor_chestplate",
+            "title": "Sdandard lamellar armor",
+            "text": "A sdandard lamellar armor."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:mingguang_armor_chestplate",
+            "title": "Ming Guang armor",
+            "text": "Enhanced lamellar armor that provied more armor toughness than the sdandard one. 'Ming Guang' means shining in Chinese, two metal disc Sparkling in the sunlight and bring a sense of brave to the warriors wearing it."
+        }
+    ]
+}

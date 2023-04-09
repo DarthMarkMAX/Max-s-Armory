@@ -1,0 +1,16 @@
+{
+    "name": "太刀",
+    "icon": "max_armory:iron_katana",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "是一种刀刃略弯的典型日式武器。它的攻速略慢，但是伤害更高。而且用低于铁的材料制作它时还有额外的好处。"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_katana",
+            "title": " "
+        }
+    ]
+}

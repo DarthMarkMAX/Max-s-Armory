@@ -1,0 +1,35 @@
+{
+    "name": "Materials",
+    "icon": "max_armory:lamellar_armor_piece",
+    "category": "max_armory:material_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If there's no conflict in crafting, I will never made new materials."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:handle",
+            "title": "Handle",
+            "text": "End part of swords for user to grab."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:rod",
+            "title": "Rod",
+            "text": "A long wood stick that can be uesd to make long weapons and can also be used in combat."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:lamellar_armor_piece",
+            "title": "Lamellar Armor Piece",
+            "text": "Flexible armor material made with tiny square armor pieces. Can be used in making lamellar armors."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:chain_armor_piece",
+            "title": "Chain Armor Piece",
+            "text": "Soft armor material made with tiny rings. Can be used in making chain armors."
+        }
+    ]
+}

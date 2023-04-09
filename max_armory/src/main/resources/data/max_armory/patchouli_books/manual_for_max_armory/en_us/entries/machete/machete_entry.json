@@ -1,0 +1,16 @@
+{
+    "name": "Machete",
+    "icon": "max_armory:iron_machete",
+    "category": "max_armory:swords_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A weapon with recurved blade which is common in south-east Asia. It has a higher attack damage and can be used like an axe."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "max_armory:iron_machete",
+            "title": " "
+        }
+    ]
+}
