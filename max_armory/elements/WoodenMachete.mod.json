@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wooden_machete",
+    "customModelName": "Normal",
+    "name": "Wooden Machete",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.3,
+    "enchantability": 15,
+    "damageVsEntity": 4.9,
+    "usageCount": 59,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.STICK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

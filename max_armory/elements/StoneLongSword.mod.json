@@ -1,0 +1,37 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "stone_longsword",
+    "customModelName": "longsword_model:default",
+    "name": "Stone Long Sword",
+    "specialInfo": [
+      "Attack Range +1",
+      "Two-Hand"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 5,
+    "damageVsEntity": 4.5,
+    "usageCount": 131,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.COBBLESTONE"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "Setrangenormal"
+    }
+  }
+}
