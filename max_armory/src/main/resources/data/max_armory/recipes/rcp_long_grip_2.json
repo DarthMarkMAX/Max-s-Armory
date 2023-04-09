@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "max_armory:handle"
+    },
+    "1": {
+      "item": "max_armory:handle"
+    },
+    "2": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:rod",
+    "count": 1
+  }
+}

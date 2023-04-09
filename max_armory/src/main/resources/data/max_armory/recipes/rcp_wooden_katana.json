@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:wooden_katana",
+    "count": 1
+  }
+}

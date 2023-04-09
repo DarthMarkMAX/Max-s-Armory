@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "item": "max_armory:rod"
+    }
+  },
+  "result": {
+    "item": "max_armory:wooden_spear",
+    "count": 1
+  }
+}

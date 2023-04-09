@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "1": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "2": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "3": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "4": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "5": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "6": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "8": {
+      "item": "max_armory:lamellar_armor_piece"
+    }
+  },
+  "result": {
+    "item": "max_armory:lamellar_armor_leggings",
+    "count": 1
+  }
+}

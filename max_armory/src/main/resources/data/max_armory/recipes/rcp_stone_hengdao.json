@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stone"
+    },
+    "1": {
+      "tag": "forge:stone"
+    },
+    "2": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:stone_hengdao",
+    "count": 1
+  }
+}

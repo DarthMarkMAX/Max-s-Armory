@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:stone"
+    },
+    "2": {
+      "tag": "forge:stone"
+    },
+    "4": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:stone_katana",
+    "count": 1
+  }
+}

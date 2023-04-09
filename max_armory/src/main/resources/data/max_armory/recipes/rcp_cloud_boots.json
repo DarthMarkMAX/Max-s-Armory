@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "2": {
+      "item": "max_armory:lamellar_armor_piece"
+    },
+    "3": {
+      "item": "minecraft:black_wool"
+    },
+    "5": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "max_armory:mingguang_armor_boots",
+    "count": 1
+  }
+}

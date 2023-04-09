@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:golden_katana",
+    "count": 1
+  }
+}

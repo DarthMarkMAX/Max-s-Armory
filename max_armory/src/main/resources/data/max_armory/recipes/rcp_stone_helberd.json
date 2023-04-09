@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:stone"
+    },
+    "2": {
+      "tag": "forge:stone"
+    },
+    "3": {
+      "item": "max_armory:rod"
+    }
+  },
+  "result": {
+    "item": "max_armory:stone_halberd",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 ",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "max_armory:handle"
+    }
+  },
+  "result": {
+    "item": "max_armory:diamond_shamshir",
+    "count": 1
+  }
+}

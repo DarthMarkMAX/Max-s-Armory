@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "2": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "3": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "5": {
+      "item": "max_armory:chain_armor_piece"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_boots",
+    "count": 1
+  }
+}

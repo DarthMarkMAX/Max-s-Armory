@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "2": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "3": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "4": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "5": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "6": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "7": {
+      "item": "max_armory:chain_armor_piece"
+    },
+    "8": {
+      "item": "max_armory:chain_armor_piece"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_chestplate",
+    "count": 1
+  }
+}
