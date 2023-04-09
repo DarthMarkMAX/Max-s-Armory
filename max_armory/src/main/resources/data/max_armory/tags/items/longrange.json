@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "max_armory:iron_halberd",
+    "max_armory:netherite_halberd",
+    "max_armory:wooden_halberd",
+    "max_armory:netherite_long_sword",
+    "max_armory:golden_spear",
+    "max_armory:stone_halberd",
+    "max_armory:iron_long_sword",
+    "max_armory:rod",
+    "max_armory:diamond_long_sword",
+    "max_armory:diamond_halberd",
+    "max_armory:diamond_spear",
+    "max_armory:stone_spear",
+    "max_armory:wooden_spear",
+    "max_armory:nethrite_pike",
+    "max_armory:golden_long_sword",
+    "max_armory:wooden_long_sword",
+    "max_armory:stone_long_sword",
+    "max_armory:iron_spear",
+    "max_armory:golden_halberd"
+  ]
+}
