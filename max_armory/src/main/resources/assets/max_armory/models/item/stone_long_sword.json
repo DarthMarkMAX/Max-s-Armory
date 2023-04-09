@@ -1,0 +1,7 @@
+{
+  "parent": "max_armory:custom/longsword_model",
+  "textures": {
+    "0": "max_armory:items/stone_longsword",
+    "particle": "max_armory:items/stone_longsword"
+  }
+}

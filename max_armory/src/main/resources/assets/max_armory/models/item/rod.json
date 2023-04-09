@@ -1,0 +1,7 @@
+{
+  "parent": "max_armory:custom/rod",
+  "textures": {
+    "0": "max_armory:blocks/rod",
+    "particle": "max_armory:items/rod"
+  }
+}

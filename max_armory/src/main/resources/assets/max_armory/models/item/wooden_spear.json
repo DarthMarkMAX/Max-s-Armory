@@ -1,0 +1,7 @@
+{
+  "parent": "max_armory:custom/pike_model",
+  "textures": {
+    "0": "max_armory:blocks/wooden_pike",
+    "particle": "max_armory:items/wooden_pike"
+  }
+}

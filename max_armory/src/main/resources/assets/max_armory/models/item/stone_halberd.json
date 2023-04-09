@@ -1,0 +1,7 @@
+{
+  "parent": "max_armory:custom/halberd_model",
+  "textures": {
+    "0": "max_armory:items/stone_halberd",
+    "particle": "max_armory:items/stone_halberd"
+  }
+}
