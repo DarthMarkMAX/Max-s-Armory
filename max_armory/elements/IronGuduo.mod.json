@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_guduo",
+    "customModelName": "Normal",
+    "name": "Iron Hammer",
+    "specialInfo": [
+      "Ignore Armor"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 0.9,
+    "enchantability": 14,
+    "damageVsEntity": 4.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IronGuduoHit"
+    }
+  }
+}

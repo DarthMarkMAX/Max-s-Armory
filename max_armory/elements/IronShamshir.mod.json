@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_shamshir",
+    "customModelName": "Normal",
+    "name": "Iron Shamshir",
+    "specialInfo": [
+      "Damage +1 if target has no armor"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 2.0,
+    "enchantability": 14,
+    "damageVsEntity": 3.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "ShamshirHit"
+    }
+  }
+}

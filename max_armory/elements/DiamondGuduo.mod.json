@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_guduo",
+    "customModelName": "Normal",
+    "name": "Diamond Hammer",
+    "specialInfo": [
+      "Ignore Armor"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 0.9,
+    "enchantability": 10,
+    "damageVsEntity": 5.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "DiamondGuduoHit"
+    }
+  }
+}

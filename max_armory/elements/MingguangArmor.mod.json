@@ -1,0 +1,74 @@
+{
+  "_fv": 39,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "wing_helmet",
+    "enableBody": true,
+    "textureBody": "mingguang_body",
+    "enableLeggings": false,
+    "textureLeggings": "mingguang_leggings",
+    "enableBoots": false,
+    "textureBoots": "cloud_shoe",
+    "onHelmetTick": {
+      "name": "MingguangArmorBodyTickEvent"
+    },
+    "onBodyTick": {
+      "name": "MingguangArmorBodyTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "armorTextureFile": "elemendarmor",
+    "helmetName": "Wing Helmet",
+    "bodyName": "Ming Guang Chestplate",
+    "leggingsName": "Ming Guang Armor Leggings",
+    "bootsName": "Cloud Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [
+      "Strength +1"
+    ],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelhelmet_re1",
+    "helmetModelPart": "body",
+    "helmetModelTexture": "wing_helmet_tex1.png",
+    "bodyModelName": "Modellamellar_body",
+    "bodyModelPart": "body",
+    "armsModelPartL": "L",
+    "armsModelPartR": "R",
+    "bodyModelTexture": "mingguang_body_tex1.png",
+    "leggingsModelName": "Modelmingguang_leggings_re1",
+    "leggingsModelPartL": "left",
+    "leggingsModelPartR": "right",
+    "leggingsModelTexture": "mingguang_legging_tex1.png",
+    "bootsModelName": "Modelcloud_boots_model",
+    "bootsModelPartL": "L",
+    "bootsModelPartR": "R",
+    "bootsModelTexture": "cloud_boot_tex.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 3,
+    "damageValueBody": 7,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 1,
+    "enchantability": 25,
+    "toughness": 4.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": "item.armor.equip_chain"
+    },
+    "repairItems": []
+  }
+}

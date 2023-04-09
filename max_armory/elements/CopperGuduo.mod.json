@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "copper_guduo",
+    "customModelName": "Normal",
+    "name": "Copper Hammer",
+    "specialInfo": [
+      "Ignore Armor"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaxArmory"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 3.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.COPPER_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "StoneHammerhit"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WoodenPike"
+      },
+      {
+        "value": "CUSTOM:StonePike"
+      },
+      {
+        "value": "CUSTOM:IronPike"
+      },
+      {
+        "value": "CUSTOM:GoldenPike"
+      },
+      {
+        "value": "CUSTOM:DiamondPike"
+      },
+      {
+        "value": "CUSTOM:NethritePike"
+      },
+      {
+        "value": "CUSTOM:WoodenLongSword"
+      },
+      {
+        "value": "CUSTOM:StoneLongSword"
+      },
+      {
+        "value": "CUSTOM:IronLongSword"
+      },
+      {
+        "value": "CUSTOM:GoldenLongSword"
+      },
+      {
+        "value": "CUSTOM:DiamondLongSword"
+      },
+      {
+        "value": "CUSTOM:NetheriteLongSword"
+      },
+      {
+        "value": "CUSTOM:WoodenHalberd"
+      },
+      {
+        "value": "CUSTOM:StoneHalberd"
+      },
+      {
+        "value": "CUSTOM:IronHalberd"
+      },
+      {
+        "value": "CUSTOM:GoldenHalberd"
+      },
+      {
+        "value": "CUSTOM:DiamondHalberd"
+      },
+      {
+        "value": "CUSTOM:NetheriteHalberd"
+      },
+      {
+        "value": "CUSTOM:LongGrip"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "longrange",
+    "namespace": "mod"
+  }
+}
